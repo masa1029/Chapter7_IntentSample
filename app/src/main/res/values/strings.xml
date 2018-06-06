@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">画面推移サンプル</string>
+    <string name="tv_thx_title">注文完了</string>
+    <string name="tv_thx_desc">以下のメニューのご注文を受け付けました。\nご注文ありがとうございます。</string>
+    <string name="bt_thx_back">リストに戻る</string>
+
+    <string name="name1">から揚げ定食</string>
+    <string name="name2">ハンバーグ定食</string>
+    <string name="name3">生姜焼き定食</string>
+    <string name="name4">ステーキ定食</string>
+    <string name="name5">野菜炒め定食</string>
+    <string name="name6">とんかつ定食</string>
+    <string name="price1">800円</string>
+    <string name="price2">850円</string>
+    <string name="price3">850円</string>
+    <string name="price4">1000円</string>
+    <string name="price5">750円</string>
+    <string name="price6">900円</string>
+</resources>
